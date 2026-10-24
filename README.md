@@ -20,7 +20,10 @@ Standard database auto-increment counters leak business data (like total record 
 
 ## Installation
 
-Ensure you are running **Python 3.6+** and include the module in your project source tree.
+Required **Python 3.6+**
+```shell
+pip install shortsnowflakeid
+```
 
 ## Usage
 
